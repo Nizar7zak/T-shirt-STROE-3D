@@ -30,7 +30,7 @@ const Shirt = () => {
       >
         {snap.isFullTexture && (
           <Decal 
-            position={[0, 0, 0]}
+            position={[1, 10, 0]}
             rotation={[0, 0, 0]}
             scale={1}
             map={fullTexture}
