@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "threejs",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"aipicker",
+			"colorpicker",
+			"Customizer",
+			"drei",
+			"editortabs",
+			"filepicker",
+			"filtertabs",
+			"glassmorhism",
+			"GLTF",
+			"maath",
+			"threejs",
+			"valtio"
+		]
+	}
+}
